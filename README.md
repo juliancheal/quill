@@ -9,14 +9,14 @@ In Quill devices are called `Orbs`. It is Quill's job to protect all the `Orbs` 
 
 ## Description
 
-Register a device with Quill, set up the devices parameters and let Quill do the rest.
+Register an `Orb` with Quill, set up the `Orbs` parameters and let Quill do the rest.
 
 For example if you're using a smart plug with energy monitoring to monitor your fridge's power usage. You wouldn't want the fridge to be turned off by an accidental "Hey Siri, switch off all plugs". In this scenario, Quill will check the power status of your fridge and switch it back on, saving your food and the day.
 
 
 ## TODO
 
-* Register device
+* Register orb
 * Setup rules
 * Schedule checks
 
