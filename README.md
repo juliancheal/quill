@@ -15,3 +15,10 @@ For example if you're using a smart plug with energy monitoring to monitor your 
 * Register device
 * Setup rules
 * Schedule checks
+
+## Works with
+
+* Nest
+* Smart plugs
+* Siri
+* Amazon Echo
