@@ -1,7 +1,7 @@
 # Quill
 ## Guardian of your own galaxy
 
-Quill protects and servers your smart home. Keeping important devices running, switching off power hogs, protecting against outside influences.
+Quill protects and servers your smart home. Keeping important devices running, switching off power hogs, protecting against outside influences[*](#1).
 
 ## Description
 
@@ -22,3 +22,5 @@ For example if you're using a smart plug with energy monitoring to monitor your 
 * Smart plugs
 * Siri
 * Amazon Echo
+
+[1]: Outside influences aka you turning something off by mistake, Quill can't protect you from an army of Botnets. Not yet at least.
