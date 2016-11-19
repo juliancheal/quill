@@ -1,7 +1,7 @@
 # Quill
 ## Guardian of your own galaxy
 
-Quill protects and servers your smart home. Keeping important devices running, switching off power hogs, protecting against outside influences[*](#1).
+Quill protects and serves your smart home. Keeping important devices running, switching off power hogs, protecting against outside influences[*](#1).
 
 In Quill devices are called `Orbs`. It is Quill's job to protect all the `Orbs` in the `Galaxy`.
 
