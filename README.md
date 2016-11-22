@@ -27,4 +27,11 @@ For example if you're using a smart plug with energy monitoring to monitor your 
 * Siri
 * Amazon Echo
 
+## Powered by
+
+* [Consul](https://github.com/hashicorp/consul)
+* [Kala](https://github.com/ajvb/kala)
+
+### Footnotes
+
 [1]: Outside influences means you turning something off by mistake, Quill can't protect you from an army of Botnets. Not yet at least.
